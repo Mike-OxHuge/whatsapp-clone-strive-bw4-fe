@@ -1,8 +1,15 @@
 
-
+import Box from '@material-ui/core/Box';
 const Main = () => {
     return ( 
-        <h2>Le Balls</h2>
+     //The sidebar and chatroom side by side 
+        <Box display="flex">
+            <div></div> 
+            
+            <div></div>
+
+
+            </Box>
      );
 }
  
