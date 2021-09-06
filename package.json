@@ -23,5 +23,18 @@
     "dotenv": "^10.0.0",
     "eslint": "7.32.0",
     "eslint-config-next": "11.1.2"
-  }
+  },
+  "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
+  "main": "next.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mike-OxHuge/whatsapp-clone-strive-bw4-fe.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mike-OxHuge/whatsapp-clone-strive-bw4-fe/issues"
+  },
+  "homepage": "https://github.com/Mike-OxHuge/whatsapp-clone-strive-bw4-fe#readme"
 }
